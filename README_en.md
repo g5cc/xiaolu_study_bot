@@ -87,5 +87,11 @@ Mass production to be completed by the end of June.
 ### Preview Images of Hardware Appearance
 ![效果图](docs/IDxiaolu2.jpg)
 ---
+Development Environment
+
+* VSCode
+* ESP-IDF SDK version 5.3 or above
+* Linux
+* Use the Google C++ Style Guide. Please ensure your code complies with the standard before submission.
 
 
