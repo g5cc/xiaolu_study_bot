@@ -8,12 +8,13 @@
 
 ## 项目目的
 
-本项目是由深圳小鹿言灵技术有限公司开发的一个AI作业辅导机器人产品，是基于小智聊天机器人开源项目的商业实践项目。
+本项目由深圳小鹿言灵技术有限公司开发，是一款基于“小智”开源聊天机器人打造的AI作业辅导产品，旨在探索其在教育场景中的商业应用。
 
-我们希望通过这个项目，能够帮助更多时间精力或者专业能力缺乏的小学生家长更好得辅导小孩完成作业，通过AI友好生动的推演讲解，让小孩更好掌握巩固所学知识。
-将当下飞速发展的大语言模型应用到实际的硬件设备中，打造低成本的智能学习机成为可能，下沉市场和小镇家庭的孩子们也能无压力用上最新科技产品。
+我们希望通过这款产品，帮助缺乏时间、精力或专业知识的小学生家长更轻松地辅导孩子完成作业。通过AI生动、互动式的推演讲解，孩子能够更好地理解和巩固课堂知识。
 
-欢迎所有人参与到项目的开发和改进中来。如果你有任何想法或建议，请随时提出 Issue。
+依托大语言模型的快速发展，我们正在将先进的AI技术落地到低成本的智能硬件中，使下沉市场和小镇家庭的孩子们也能无门槛使用前沿科技，为教育的公平竞争贡献力量。
+
+欢迎广大开发者和用户参与项目的建设与优化。如有建议或想法，欢迎随时提交 Issue，与我们共同完善这款产品。
 
 交流微信：reven86
 
@@ -73,90 +74,16 @@
 
 ### 7. 安全与隐私保护
 
-* **儿童隐私保护协议合规**：遵守《儿童个人信息网络保护规定》。
+* **儿童隐私保护协议合规**：遵守《个人信息网络保护规定》。
 * **家长监控与数据透明**：家长可查看所有使用记录，AI数据完全可审计。
 
-## ✅ 已支持的芯片平台
-
-- ✅ ESP32-S3
-- ✅ ESP32-C3
-- ✅ ESP32-P4
 
 ## 硬件部分
 
-### 面包板手工制作实践
+### 硬件外观部分预览图
 
-详见飞书文档教程：
+![面包板效果图](docs/IDxiaolu2.jpg)
 
-👉 [《小智 AI 聊天机器人百科全书》](https://ccnphfhqs21z.feishu.cn/wiki/F5krwD16viZoF0kKkvDcrZNYnhb?from=from_copylink)
-
-面包板效果图如下：
-
-![面包板效果图](docs/wiring2.jpg)
-
-### 已支持的开源硬件
-
-- <a href="https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-shi-zhan-pai-esp32-s3-kai-fa-ban" target="_blank" title="立创·实战派 ESP32-S3 开发板">立创·实战派 ESP32-S3 开发板</a>
-- <a href="https://github.com/espressif/esp-box" target="_blank" title="乐鑫 ESP32-S3-BOX3">乐鑫 ESP32-S3-BOX3</a>
-- <a href="https://docs.m5stack.com/zh_CN/core/CoreS3" target="_blank" title="M5Stack CoreS3">M5Stack CoreS3</a>
-- <a href="https://docs.m5stack.com/en/atom/Atomic%20Echo%20Base" target="_blank" title="AtomS3R + Echo Base">AtomS3R + Echo Base</a>
-- <a href="https://docs.m5stack.com/en/core/ATOM%20Matrix" target="_blank" title="AtomMatrix + Echo Base">AtomMatrix + Echo Base</a>
-- <a href="https://gf.bilibili.com/item/detail/1108782064" target="_blank" title="神奇按钮 2.4">神奇按钮 2.4</a>
-- <a href="https://www.waveshare.net/shop/ESP32-S3-Touch-AMOLED-1.8.htm" target="_blank" title="微雪电子 ESP32-S3-Touch-AMOLED-1.8">微雪电子 ESP32-S3-Touch-AMOLED-1.8</a>
-- <a href="https://github.com/Xinyuan-LilyGO/T-Circle-S3" target="_blank" title="LILYGO T-Circle-S3">LILYGO T-Circle-S3</a>
-- <a href="https://oshwhub.com/tenclass01/xmini_c3" target="_blank" title="虾哥 Mini C3">虾哥 Mini C3</a>
-- <a href="https://oshwhub.com/movecall/moji-xiaozhi-ai-derivative-editi" target="_blank" title="Movecall Moji ESP32S3">Moji 小智AI衍生版</a>
-- <a href="https://oshwhub.com/movecall/cuican-ai-pendant-lights-up-y" target="_blank" title="Movecall CuiCan ESP32S3">璀璨·AI吊坠</a>
-- <a href="https://github.com/WMnologo/xingzhi-ai" target="_blank" title="无名科技Nologo-星智-1.54">无名科技Nologo-星智-1.54TFT</a>
-- <a href="https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html" target="_blank" title="SenseCAP Watcher">SenseCAP Watcher</a>
-<div style="display: flex; justify-content: space-between;">
-  <a href="docs/v1/lichuang-s3.jpg" target="_blank" title="立创·实战派 ESP32-S3 开发板">
-    <img src="docs/v1/lichuang-s3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/espbox3.jpg" target="_blank" title="乐鑫 ESP32-S3-BOX3">
-    <img src="docs/v1/espbox3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/m5cores3.jpg" target="_blank" title="M5Stack CoreS3">
-    <img src="docs/v1/m5cores3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/atoms3r.jpg" target="_blank" title="AtomS3R + Echo Base">
-    <img src="docs/v1/atoms3r.jpg" width="240" />
-  </a>
-  <a href="docs/v1/magiclick.jpg" target="_blank" title="神奇按钮 2.4">
-    <img src="docs/v1/magiclick.jpg" width="240" />
-  </a>
-  <a href="docs/v1/waveshare.jpg" target="_blank" title="微雪电子 ESP32-S3-Touch-AMOLED-1.8">
-    <img src="docs/v1/waveshare.jpg" width="240" />
-  </a>
-  <a href="docs/lilygo-t-circle-s3.jpg" target="_blank" title="LILYGO T-Circle-S3">
-    <img src="docs/lilygo-t-circle-s3.jpg" width="240" />
-  </a>
-  <a href="docs/xmini-c3.jpg" target="_blank" title="虾哥 Mini C3">
-    <img src="docs/xmini-c3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/movecall-moji-esp32s3.jpg" target="_blank" title="Movecall Moji 小智AI衍生版">
-    <img src="docs/v1/movecall-moji-esp32s3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/movecall-cuican-esp32s3.jpg" target="_blank" title="CuiCan">
-    <img src="docs/v1/movecall-cuican-esp32s3.jpg" width="240" />
-  </a>
-  <a href="docs/v1/wmnologo_xingzhi_1.54.jpg" target="_blank" title="无名科技Nologo-星智-1.54">
-    <img src="docs/v1/wmnologo_xingzhi_1.54.jpg" width="240" />
-  </a>
-  <a href="docs/v1/sensecap_watcher.jpg" target="_blank" title="SenseCAP Watcher">
-    <img src="docs/v1/sensecap_watcher.jpg" width="240" />
-  </a>
-</div>
-
-## 固件部分
-
-### 免开发环境烧录
-
-新手第一次操作建议先不要搭建开发环境，直接使用免开发环境烧录的固件。
-
-固件默认接入 [xiaozhi.me](https://xiaozhi.me) 官方服务器，目前个人用户注册账号可以免费使用 Qwen 实时模型。
-
-👉 [Flash烧录固件（无IDF开发环境）](https://ccnphfhqs21z.feishu.cn/wiki/Zpz4wXBtdimBrLk25WdcXzxcnNS) 
 
 
 ### 开发环境
@@ -166,23 +93,6 @@
 - Linux 比 Windows 更好，编译速度快，也免去驱动问题的困扰
 - 使用 Google C++ 代码风格，提交代码时请确保符合规范
 
-### 开发者文档
-
-- [开发板定制指南](main/boards/README.md) - 学习如何为小智创建自定义开发板适配
-- [物联网控制模块](main/iot/README.md) - 了解如何通过AI语音控制物联网设备
-
-
-## 智能体配置
-
-如果你已经拥有一个小智 AI 聊天机器人设备，可以登录 [xiaozhi.me](https://xiaozhi.me) 控制台进行配置。
-
-👉 [后台操作视频教程（旧版界面）](https://www.bilibili.com/video/BV1jUCUY2EKM/)
-
-## 技术原理与私有化部署
-
-👉 [一份详细的 WebSocket 通信协议文档](docs/websocket.md)
-
-在个人电脑上部署服务器，可以参考另一位作者同样以 MIT 许可证开源的项目 [xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 
 ## Star History
 
