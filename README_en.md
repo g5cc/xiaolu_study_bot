@@ -85,7 +85,7 @@ Mass production to be completed by the end of June.
 ## Hardware
 
 ### Preview Images of Hardware Appearance
-
+![效果图](docs/IDxiaolu2.jpg)
 ---
 
 
