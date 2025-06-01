@@ -15,7 +15,7 @@ We hope this product can help parents of primary school students—especially th
 
 Leveraging the rapid development of large language models, we are bringing advanced AI technology to affordable smart hardware. This allows children in underserved markets and small-town families to access cutting-edge technology without barriers, contributing to a fairer educational landscape.
 
-We welcome developers and users to join us in building and improving this project. If you have any suggestions or ideas, feel free to submit an issue and collaborate with us to refine the product.
+We welcome developers and users to join us in building and improving this project. If you have any suggestions or ideas, feel free to contact us and collaborate with us to refine the product.
 
 WeChat: reven86
 
