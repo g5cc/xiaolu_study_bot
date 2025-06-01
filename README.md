@@ -82,7 +82,7 @@
 
 ### 硬件外观部分预览图
 
-![面包板效果图](docs/IDxiaolu2.jpg)
+![效果图](docs/IDxiaolu2.jpg)
 
 
 
