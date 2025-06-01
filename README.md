@@ -88,18 +88,10 @@
 
 ### 开发环境
 
-- Cursor 或 VSCode
-- 安装 ESP-IDF 插件，选择 SDK 版本 5.3 或以上
-- Linux 比 Windows 更好，编译速度快，也免去驱动问题的困扰
+- VSCode
+- ESP-IDF SDK 版本 5.3 或以上
+- Linux
 - 使用 Google C++ 代码风格，提交代码时请确保符合规范
 
 
-## Star History
 
-<a href="https://star-history.com/#78/xiaozhi-esp32&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=78/xiaozhi-esp32&type=Date" />
- </picture>
-</a>
