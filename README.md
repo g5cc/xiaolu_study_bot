@@ -1,4 +1,4 @@
-# 小鹿精灵 AI作业辅导机器人 （Xiaolu AI Homework Assistant）
+# 小鹿精灵 AI作业辅导助手 （Xiaolu AI Homework Assistant）
 
 （中文 | [English](README_en.md) )
 
