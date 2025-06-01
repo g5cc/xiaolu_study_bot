@@ -1,4 +1,4 @@
-# 小智 AI 聊天机器人 （XiaoZhi AI Chatbot）
+# 小鹿AI学习助手基于 #小智 AI 聊天机器人 （XiaoZhi AI Chatbot）项目
 
 （中文 | [English](README_en.md) | [日本語](README_ja.md)）
 
